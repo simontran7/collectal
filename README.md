@@ -1,6 +1,6 @@
 <div align="center">
   <img width="115px" src="doc/collectal.png">
-  <h1>rex</h1>
+  <h1>collectal</h1>
   <p>Java collections and algorithms library</p>
 </div>
 
