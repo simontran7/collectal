@@ -21,6 +21,9 @@
 | disjoint set       | forest with path compression and union by rank heuristics      |
 | graph              | adjacency list, adjacency matrix                               |
 
+> [!WARNING]  
+> Collections implementations are not lock-free 
+
 ### algorithms
 
 | algorithm category           | algorithms                                                             |
